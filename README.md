@@ -11,12 +11,12 @@ name     : Nethmini Dilrukshika
 location : Sri Lanka 🇱🇰
 university: SLIIT
 degree   : BSc (Hons) in Information Technology
-year     : 3rd Year Undergraduate | CGPA 3.75
+year     : 3rd Year Undergraduate 
 interests:
   - Software Quality Assurance 🔍
   - Full Stack Development 💻
   - Agile & Team Collaboration 🤝
-learning : Playwright · QA Automation · TypeScript
+
 ```
 
 <br clear="right"/>
