@@ -11,24 +11,16 @@ name     : Nethmini Dilrukshika
 location : Sri Lanka 🇱🇰
 university: SLIIT
 degree   : BSc (Hons) in Information Technology
-year     : 3rd Year Undergraduate 
+year     : 3rd Year Undergraduate
 interests:
   - Software Quality Assurance 🔍
   - Full Stack Development 💻
   - Agile & Team Collaboration 🤝
-
 ```
 
 <br clear="right"/>
 
 ---
-
-
-
-
-
-
-
 
 ## 📬 Connect With Me
 
@@ -47,10 +39,6 @@ interests:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NethminiThamel&color=e96c9d&style=flat-square&label=Profile+Views" />
-</p>
 
 <p align="center"><i>✨ "Code with passion, test with precision." ✨</i></p>
 
