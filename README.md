@@ -26,13 +26,7 @@ learning : Playwright · QA Automation · TypeScript
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="100%" />
-</p>
-
----
 
 
 
