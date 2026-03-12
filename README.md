@@ -16,45 +16,24 @@ interests:
   - Software Quality Assurance 🔍
   - Full Stack Development 💻
   - Agile & Team Collaboration 🤝
-
-
+learning : Playwright · QA Automation · TypeScript
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
 
-<h3 align="center">💬 Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,kotlin&theme=dark" />
-</p>
 
-<h3 align="center">🌐 Web Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind&theme=dark" />
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-<h3 align="center">🧰 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="100%" />
 </p>
 
 ---
+
 
 
 ## 📬 Connect With Me
