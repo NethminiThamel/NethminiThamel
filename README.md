@@ -16,8 +16,8 @@ interests:
   - Software Quality Assurance 🔍
   - Full Stack Development 💻
   - Agile & Team Collaboration 🤝
-learning : Playwright · QA Automation · TypeScript
-fun_fact : Led teams in 3 full-stack projects! 🎉
+
+
 ```
 
 <br clear="right"/>
@@ -51,13 +51,10 @@ fun_fact : Led teams in 3 full-stack projects! 🎉
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NethminiThamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&icon_color=a855f7&text_color=c9d1d9&border_radius=15" width="47%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="45%" />
 </p>
 
 ---
-
 
 
 ## 📬 Connect With Me
