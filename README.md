@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c9d,50:a855f7,100:6366f1&height=200&section=header&text=Nethmini%20Dilrukshika&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=✨%20IT%20Undergraduate%20%7C%20QA%20Enthusiast%20%7C%20Full%20Stack%20Developer%20✨&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=e96c9d&center=true&vCenter=true&width=600&lines=🌸+Welcome+to+my+GitHub+Profile!;💻+3rd+Year+IT+Undergrad+at+SLIIT;🔍+Passionate+about+Software+QA;🚀+Building+cool+full-stack+projects;🌟+Dean%27s+List+Awardee+%7C+CGPA+3.75" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 🌸 About Me
@@ -62,39 +56,9 @@ fun_fact : Led teams in 3 full-stack projects! 🎉
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminiThamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e96c9d&text_color=c9d1d9&border_radius=15" width="40%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NethminiThamel&theme=tokyonight&hide_border=true&background=0D1117&ring=e96c9d&fire=a855f7&currStreakLabel=e96c9d&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15" width="55%" />
-</p>
-
 ---
 
-## 🚀 Featured Projects
 
-<p align="center">
-
-| 🌟 Project | 🛠️ Tech Stack | 📝 Description |
-|:---|:---|:---|
-| 🥥 **COCOCHAIN** | Next.js · React · Node.js · MongoDB · Stripe · TypeScript | Full-stack coconut supply chain platform with Stripe payments & payroll |
-| 📦 **Online Stock Management** | Java · MySQL · HTML · CSS · JavaScript | MVC-based stock system with full CRUD inventory operations |
-| 🧪 **Singlish-to-Sinhala QA** | Playwright · JavaScript | End-to-end QA automation with structured test cases & page object methods |
-
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-<p align="center">
-
-🎓 &nbsp;**Dean's List Award** — Year 1 Sem 1 &nbsp;·&nbsp; Year 1 Sem 2 &nbsp;·&nbsp; Year 2 Sem 1
-
-📜 &nbsp;**Diploma in ICT** — IDM Achievers International Campus
-
-🤖 &nbsp;**AI / ML Course** — Centre for Open Distance Education, SLIIT
-
-</p>
-
----
 
 ## 📬 Connect With Me
 
